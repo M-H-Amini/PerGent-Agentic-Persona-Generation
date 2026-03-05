@@ -4,11 +4,11 @@
 
 <h1 align="center">Agentic Persona Generation in Industry:<br>An In-Situ Evaluation and Lessons Learned</h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Paper-PDF-red?logo=adobeacrobatreader&logoColor=white" alt="Paper PDF"/></a>
   <a href="#citation"><img src="https://img.shields.io/badge/Cite-BibTeX-blue" alt="Cite"/></a>
   <a href="#license"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"/></a>
-</p>
+</p> -->
 
 <p align="center">
   <b>
@@ -89,7 +89,7 @@ The [`Supplementary Materials/`](Supplementary%20Materials/) directory includes:
 
 ---
 
-## 📖 Citation
+<!-- ## 📖 Citation
 
 If you find this work useful, please cite our paper:
 
@@ -98,9 +98,9 @@ If you find this work useful, please cite our paper:
   title     = {Agentic Persona Generation in Industry: An In-Situ Evaluation and Lessons Learned},
   author    = {Amini, Mohammad Hossein and Dewar, David and Nejati, Shiva and Sabetzadeh, Mehrdad},
   booktitle = {Proceedings of [Conference Name]},
-  year      = {2025}
+  year      = {2026}
 }
-```
+``` -->
 
 ---
 
